@@ -1,0 +1,13 @@
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\construtores.exe
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\construtores.deps.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\construtores.runtimeconfig.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\construtores.runtimeconfig.dev.json
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\construtores.dll
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\bin\Debug\netcoreapp3.1\construtores.pdb
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\construtores.csprojAssemblyReference.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\construtores.AssemblyInfoInputs.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\construtores.AssemblyInfo.cs
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\construtores.csproj.CoreCompileInputs.cache
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\construtores.dll
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\construtores.pdb
+C:\Users\NicolasGabrielLimaCa\Desktop\Programação Senai\Aula16Construtores\obj\Debug\netcoreapp3.1\construtores.genruntimeconfig.cache
